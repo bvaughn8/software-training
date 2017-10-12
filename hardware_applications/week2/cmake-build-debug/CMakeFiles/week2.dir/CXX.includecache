@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/vaugh/OneDrive/Robojackets/software-training/hardware_applications/week2/starter_helpers.cpp
+
+C:/Users/vaugh/OneDrive/Robojackets/software-training/hardware_applications/week2/starter_main.cpp
+

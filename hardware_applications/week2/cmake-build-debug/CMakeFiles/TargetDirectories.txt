@@ -1,0 +1,4 @@
+C:/Users/vaugh/OneDrive/Robojackets/software-training/hardware_applications/week2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/vaugh/OneDrive/Robojackets/software-training/hardware_applications/week2/cmake-build-debug/CMakeFiles/week2.dir
+C:/Users/vaugh/OneDrive/Robojackets/software-training/hardware_applications/week2/cmake-build-debug/CMakeFiles/week2_final.dir
+C:/Users/vaugh/OneDrive/Robojackets/software-training/hardware_applications/week2/cmake-build-debug/CMakeFiles/edit_cache.dir
